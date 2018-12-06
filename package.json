@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "author": "Dan Hough <daniel.hough@gmail.com>",
   "description": "A browser-based SkiFree port",
+  "main": "./js/main.js",
   "contributors": [
     {
       "name": "Daniel Hough",
