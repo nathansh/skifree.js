@@ -1666,8 +1666,6 @@ function startNeverEndingGame (images) {
 		}
 	});
 
-	game.addUIElement(infoBox);
-	
 	$(mainCanvas)
 	.mousemove(function (e) {
 		game.setMouseX(e.pageX);
